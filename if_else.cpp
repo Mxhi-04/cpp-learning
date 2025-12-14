@@ -1,3 +1,6 @@
+// This program checks voting eligibility
+
+
 #include <iostream>
 using namespace std;
 
